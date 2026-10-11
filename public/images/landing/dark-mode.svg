@@ -1,0 +1,7 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="dark-mode">
+<path id="Vector" d="M14.6667 8C14.6667 11.6818 11.6819 14.6667 8 14.6667C4.31809 14.6667 1.33333 11.6818 1.33333 8C1.33333 4.31809 4.31809 1.33333 8 1.33333C11.6819 1.33333 14.6667 4.31809 14.6667 8Z" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M11 8C11 9.6568 9.65687 11 8 11C6.34314 11 5 9.6568 5 8C5 6.34314 6.34314 5 8 5C9.65687 5 11 6.34314 11 8Z" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M8 1.33333V14.6667" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
